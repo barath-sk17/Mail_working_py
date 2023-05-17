@@ -29,7 +29,7 @@ To run the mail application, follow these steps:
 1. Clone the project repository from GitHub:
 
    ```shell
-   git clone https://github.com/barath-sk17/Mail_working_py
+   git clone https://github.com/barath-sk17/Mail_working_py.git
    ```
 
 2. Install the required dependencies:
